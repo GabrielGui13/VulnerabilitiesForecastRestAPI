@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "T79pgue52aG2xTSPQ2x4yzIE0fagcxS734bLHC0ZGr4=",
+  "Source": "VulnerabilitiesForecastWebAPITest",
+  "BasePath": "_content/VulnerabilitiesForecastWebAPITest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

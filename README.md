@@ -1,0 +1,1 @@
+Invoke-RestMethod "https://localhost:7288/predict" -Method Post -Body (@{SentimentText="I love you!"} | ConvertTo-Json) -ContentType "application/json"

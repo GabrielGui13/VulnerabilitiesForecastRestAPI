@@ -1,6 +1,0 @@
-@SentimentAnalysisWebAPI_HostAddress = http://localhost:5294
-
-GET {{SentimentAnalysisWebAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

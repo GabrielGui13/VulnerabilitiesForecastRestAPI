@@ -29,7 +29,7 @@ app.MapControllers();
 app.Run();
 
 public class ModelInput {
-    public string SentimentText;
+	public string SentimentText;
 }
 
 public class ModelOutput {

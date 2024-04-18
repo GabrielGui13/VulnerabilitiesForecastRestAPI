@@ -1,4 +1,3 @@
-using Microsoft.ML.Data;
 using Microsoft.Extensions.ML;
 using VulnerabilitiesForecastRestAPI.Models;
 

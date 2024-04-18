@@ -1,6 +1,6 @@
 @VulnerabilitiesForecastRestAPI_HostAddress = http://localhost:5119
 
-GET {{VulnerabilitiesForecastRestAPI_HostAddress}}/weatherforecast/
+GET {{VulnerabilitiesForecastRestAPI_HostAddress}}/forecast/predict
 Accept: application/json
 
 ###
